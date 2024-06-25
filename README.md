@@ -1,6 +1,3 @@
-# LLM101n: Let's build a Storyteller
-
-![LLM101n header image](llm101n.jpg)
 
 >  What I cannot create, I do not understand. -Richard Feynman
 
